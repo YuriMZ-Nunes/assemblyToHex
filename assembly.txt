@@ -1,0 +1,8 @@
+LDA 20 flag 13 3
+ADD 10 flag 13 3
+STA 16 flag 13 3
+LDB 33 flag 13 3
+MULTR A B
+STB 21 flag 13 3
+COMPR A B
+LDA 21 flag 1 3
