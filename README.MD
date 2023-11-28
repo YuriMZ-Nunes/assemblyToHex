@@ -8,7 +8,7 @@ O arquivo assembly.txt deverá ser carregado com o codigo em assembly, porem tem
 
 No fim o assembly.txt ficará assim:
 
-LDA 20 flag 13 3\  
+LDA 20 flag 13 3\
 ADD 10 flag 13 3\
 STA 16 flag 13 3\
 LDB 33 flag 13 3\
