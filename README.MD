@@ -18,8 +18,3 @@ COMPR A B\
 LDA 21 flag 1 3
 
 Apenas execute o arquivo python e pronto, program.txt terá o cod em hexadecimal
-
-git init
-git branch -M main
-git remote add origin https://github.com/YuriMZ-Nunes/assemblyToHex.git
-git push -u origin main
